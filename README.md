@@ -1,6 +1,6 @@
 # 🌟 Personal Repository
 
-Welcome to my personal repository! This is my creative space to showcase projects, experiments, and continuous learning in **data analytics** and **Python programming**. 🚀
+Welcome to my personal repository! This is my creative space to showcase projects, experiments, and **continuous learning and application of data analytics techniques to solve real-world problems** alongside **Python programming**. 🚀
 
 Here you'll find hands-on examples of:  
 - 💾 SQL  
