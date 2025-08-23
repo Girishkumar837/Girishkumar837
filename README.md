@@ -18,4 +18,4 @@ Feel free to explore the code, drop feedback 💬, or connect with me for collab
 
 ---
 
-![Data Analytics](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Data Analytics](https://lottiefiles.com/preview/105723/data-analytics)
