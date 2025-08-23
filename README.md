@@ -18,5 +18,5 @@ Feel free to explore the code, drop feedback 💬, or connect with me for collab
 
 ---
 
-![Data Analytics](https://media.giphy.com/media/6hUjRchQuAYSG/giphy.gif)
+![Data Analytics](https://lottiefiles.com/animation/97919-data-analytics)
 
