@@ -18,5 +18,4 @@ Feel free to explore the code, drop feedback 💬, or connect with me for collab
 
 ---
 
-![Data Analytics](https://assets4.lottiefiles.com/packages/lf20_cuukgpcj.json)
-
+![Data Analytics](https://media.giphy.com/media/6hUjRchQuAYSG/giphy.gif)
