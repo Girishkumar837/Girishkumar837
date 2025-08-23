@@ -18,5 +18,5 @@ Feel free to explore the code, drop feedback 💬, or connect with me for collab
 
 ---
 
-![Data Analytics](https://lottiefiles.com/animation/97919-data-analytics)
+![Data Analytics](https://assets7.lottiefiles.com/packages/lf20_Cc8Bpg.json)
 
