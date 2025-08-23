@@ -18,5 +18,5 @@ Feel free to explore the code, drop feedback 💬, or connect with me for collab
 
 ---
 
-![Data Analytics](https://assets7.lottiefiles.com/packages/lf20_Cc8Bpg.json)
+![Data Analytics](https://assets4.lottiefiles.com/packages/lf20_cuukgpcj.json)
 
